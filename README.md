@@ -210,15 +210,15 @@ Projetos que integram hardware, chão de fábrica, sistemas espaciais e software
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/gabrielly-jacobsen/">
+<a href="https://www.linkedin.com/in/gabrielly-jacobsen-oliveira/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F2FE" />
 </a>
 
-<a href="https://github.com/GabriellyJacobsen">
+<a href="https://github.com/GabyJacobsen">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4FACFE" />
 </a>
 
-<a href="mailto:seu-email@exemplo.com">
+<a href="mailto:gabrielly.jacobsen@outlook.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E100FF" />
 </a>
 
