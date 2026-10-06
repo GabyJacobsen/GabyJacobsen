@@ -182,7 +182,7 @@ Projetos que integram hardware, chão de fábrica, sistemas espaciais e software
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabriellyJacobsen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=E100FF&text_color=c9d1d9" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=GabyJacobsen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=E100FF&text_color=c9d1d9" alt="GitHub Stats" />
 
 </div>
 
@@ -194,7 +194,7 @@ Projetos que integram hardware, chão de fábrica, sistemas espaciais e software
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GabriellyJacobsen&theme=dark&hide_border=true&background=0D1117&ring=00F2FE&fire=E100FF&currStreakLabel=4FACFE&sideLabels=4FACFE&dates=00F2FE" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GabyJacobsen&theme=dark&hide_border=true&background=0D1117&ring=00F2FE&fire=E100FF&currStreakLabel=4FACFE&sideLabels=4FACFE&dates=00F2FE" alt="Streak Stats" />
 
 <br/><br/>
 
