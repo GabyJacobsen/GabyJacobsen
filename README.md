@@ -182,85 +182,11 @@ Projetos que integram hardware, chão de fábrica, sistemas espaciais e software
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ENGINEERING_TELEMETRY-00F2FE?style=for-the-badge&labelColor=0D1117" />
+<img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/98297953-e26d-41a7-ae37-d8143c1d79a0" />
 
 <br/><br/>
 
-<!-- RADAR DE ESPECIALIZAÇÃO & CARREIRA -->
-<table>
-  <tr>
-    <th colspan="3" align="center">
-      <code>COSMIC AURORA // SPECIALIZATION & TELEMETRY RADAR</code>
-    </th>
-  </tr>
-  <tr>
-    <td width="240"><b>IIoT & Telemetry Pipelines</b></td>
-    <td width="380">
-      <img src="https://img.shields.io/badge/PROGRESS-92%25-00F2FE?style=flat-square&labelColor=161B22" />
-      <img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-00F2FE?style=flat-square&labelColor=0D1117" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/STATUS-OPTIMAL-00F2FE?style=flat-square&labelColor=161B22" /></td>
-  </tr>
-  <tr>
-    <td><b>Python for Engineering</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PROGRESS-88%25-00F2FE?style=flat-square&labelColor=161B22" />
-      <img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%91-00F2FE?style=flat-square&labelColor=0D1117" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/STATUS-ACTIVE-00F2FE?style=flat-square&labelColor=161B22" /></td>
-  </tr>
-  <tr>
-    <td><b>Data Analysis & Timeseries</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PROGRESS-75%25-4FACFE?style=flat-square&labelColor=161B22" />
-      <img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%91%E2%96%91-4FACFE?style=flat-square&labelColor=0D1117" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/STATUS-ADVANCING-4FACFE?style=flat-square&labelColor=161B22" /></td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning & Models</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PROGRESS-60%25-E100FF?style=flat-square&labelColor=161B22" />
-      <img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-E100FF?style=flat-square&labelColor=0D1117" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/STATUS-LEARNING-E100FF?style=flat-square&labelColor=161B22" /></td>
-  </tr>
-  <tr>
-    <td><b>Embedded C/C++ Firmware</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PROGRESS-85%25-00F2FE?style=flat-square&labelColor=161B22" />
-      <img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-00F2FE?style=flat-square&labelColor=0D1117" />
-    </td>
-    <td align="center"><img src="https://img.shields.io/badge/STATUS-BENCH_TEST-00F2FE?style=flat-square&labelColor=161B22" /></td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- CARDS OPERACIONAIS COMPLEMENTARES -->
-<table>
-  <tr>
-    <td align="center" width="270">
-      <code>ACTIVE INTERNSHIP STACK</code><br/><br/>
-      <b>IIoT • Python • InfluxDB</b><br/><br/>
-      <img src="https://img.shields.io/badge/TARGET-STAGE_OPS-00F2FE?style=for-the-badge&labelColor=0D1117" />
-    </td>
-    <td align="center" width="270">
-      <code>ACADEMIC RESEARCH</code><br/><br/>
-      <b>Data Analytics & ML</b><br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-SCALING-4FACFE?style=for-the-badge&labelColor=0D1117" />
-    </td>
-    <td align="center" width="270">
-      <code>PROJECT CORE TARGET</code><br/><br/>
-      <b>Aerospace Shaker (233 Hz)</b><br/><br/>
-      <img src="https://img.shields.io/badge/QUALIFY-VERIFIED-E100FF?style=for-the-badge&labelColor=0D1117" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<code>DIAGNOSTIC MATRIX > TELEMETRY MONITORS SYNCHRONIZED ✓</code>
+<code>METRICS STATUS > TELEMETRY MONITOR SYNCHRONIZED ✓</code>
 
 </div>
 
