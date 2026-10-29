@@ -258,15 +258,57 @@ An ongoing undergraduate thesis exploring intelligent approaches to predictive m
 
 ### `GITHUB ACTIVITY`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=E6EDF3&ring_color=8B5CF6" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabyJacobsen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=E6EDF3&ring_color=8B5CF6" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabyJacobsen&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3" alt="Most used programming languages" />
 
 </div>
 
 <div align="center">
 
 `MEASURE` · `LEARN` · `BUILD` · `IMPROVE`
+
+</div>
+
+## `07 // CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabyJacobsen&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6&hide_border=true&custom_title=Engineering%20Activity)](https://github.com/GabyJacobsen)
+
+</div>
+
+<div align="center">
+
+`CONSISTENCY` · `EXPERIMENTATION` · `CONTINUOUS LEARNING`
+
+</div>
+
+## `08 // CONNECT`
+
+<div align="center">
+
+**Let's connect and build something intelligent.**
+
+Interested in engineering, industrial technology, IoT and data-driven solutions? Feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabrielly-jacobsen-oliveira)
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=flat-square&logo=gmail&logoColor=161B22)](mailto:gabrielly.jacobsen@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-C4B5FD?style=flat-square&logo=github&logoColor=161B22)](https://github.com/GabyJacobsen)
+
+</div>
+
+---
+
+<div align="center">
+
+### GABRIELLY JACOBSEN
+
+`ENGINEERING` · `DATA` · `INTELLIGENCE`
+
+*Transforming things into intelligent systems.*
+
+<sub>DESIGN WITH PURPOSE · ENGINEER WITH DATA · BUILD WITH INTELLIGENCE</sub>
 
 </div>
 
