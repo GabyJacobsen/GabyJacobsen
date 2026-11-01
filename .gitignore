@@ -1,0 +1,9 @@
+# Pastas de estudo, referências e histórico de desenvolvimento
+refs/
+versions/
+
+# Sistema operacional e IDE
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
