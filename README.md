@@ -12,7 +12,7 @@
 
 <!-- QUICK CREDENTIAL PILLS -->
 <a href="https://www.linkedin.com/in/gabrielly-jacobsen-oliveira/">
-  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFjLjk3OSAwIDEuNzc4LS43NzMgMS43NzgtMS43MjlWMS43M0MyNCAuNzc0IDIzLjIwNSAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:gabrielly.jacobsen@outlook.com">
@@ -23,9 +23,11 @@
   <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=flat-square&logo=github&logoColor=C4B5FD" alt="GitHub" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/IFSC-Florianópolis-161B22?style=flat-square&logo=googleclassroom&logoColor=A78BFA" alt="IFSC" />
+<a href="https://www.ifsc.edu.br/en/web/campus-florianopolis" target="_blank">
+  <img src="https://img.shields.io/badge/IFSC-Florianópolis-161B22?style=flat-square&logo=googleclassroom&logoColor=A78BFA" alt="IFSC" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/Role-IIoT%20Intern-161B22?style=flat-square&logo=internetofthings&logoColor=8B5CF6" alt="Role" />
+<img src="https://img.shields.io/badge/Role-IIoT%20Intern-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Role" />
 
 </div>
 
@@ -161,7 +163,6 @@ Undergraduate engineering thesis investigating data-driven condition monitoring 
 <img src="https://img.shields.io/badge/CODESYS-161B22?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0E3OEJGQSIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMTAgMTBBMTAgMTAgMCAwIDAgMTIgMnptMSAxNC41di0zaC0zdi0zaDN2LTNsNC41IDQuNXpNNy41IDEyYTQuNSA0LjUgMCAwIDEgNy42LTMuMmwxLjQtMS40QTYuNSA2LjUgMCAxIDAgMTIgMTguNXYtMmE0LjUgNC41IDAgMCAxLTQuNS00LjV6Ii8+PC9zdmc+"/>
 <img src="https://img.shields.io/badge/Ladder_Logic-161B22?style=flat-square&logo=circuitverse&logoColor=8B5CF6"/>
 <img src="https://img.shields.io/badge/WEG_%26_Delta_PLC-161B22?style=flat-square&logo=counterstrike&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Panasonic_FP--X0-161B22?style=flat-square&logo=panasonic&logoColor=8B5CF6"/>
 <img src="https://img.shields.io/badge/Modbus_RTU%2FTCP-161B22?style=flat-square&logo=hubspot&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Elipse_SCADA-161B22?style=flat-square&logo=databricks&logoColor=8B5CF6"/>
 
@@ -204,7 +205,6 @@ Undergraduate engineering thesis investigating data-driven condition monitoring 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GabyJacobsen&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" alt="GitHub Streak" />
 
-<br><br>
 
 <!-- CONTRIBUTION SNAKE PLACEHOLDER / DYNAMIC SVG -->
 <img src="https://raw.githubusercontent.com/GabyJacobsen/GabyJacobsen/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%" />
@@ -215,7 +215,7 @@ Undergraduate engineering thesis investigating data-driven condition monitoring 
 
 <div align="center">
 
-<h3 align="center">Let's Connect Collaborate.</h3>
+<h3 align="center">Let's Connect & Collaborate.</h3>
 
 <p>
 Interested in industrial IoT, telemetry architectures, embedded engineering, or data-driven solutions?<br>
@@ -225,7 +225,7 @@ Feel free to reach out.
 <br>
 
 <a href="https://www.linkedin.com/in/gabrielly-jacobsen-oliveira/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzhCNUNGNiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFjLjk3OSAwIDEuNzc4LS43NzMgMS43NzgtMS43MjlWMS43M0MyNCAuNzc0IDIzLjIwNSAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:gabrielly.jacobsen@outlook.com">
